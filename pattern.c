@@ -1,3 +1,5 @@
+//another pattern printing program
+
 #include<stdio.h>
 int main()
 {
