@@ -1,3 +1,5 @@
+//Program to oscillate a string over the display unit. Please use Turbo C for this program
+
 #include<stdio.h>
 #include<conio.h>
 #include<dos.h>
