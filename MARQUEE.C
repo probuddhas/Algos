@@ -1,3 +1,5 @@
+//Program to shift a string from the right towards left & add hidden characters from left end to the right end of the string. Please use Turbo C for this program
+
 #include<stdio.h>
 #include<conio.h>
 #include<dos.h>
